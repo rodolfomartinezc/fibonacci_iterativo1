@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ejecutablefibonnaciIterativo.dir/fibonacciIterativo.cpp.o  -o ejecutablefibonnaciIterativo -rdynamic 
